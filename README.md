@@ -1,6 +1,7 @@
 # react-konva-demo
  
 ## 简介
+ [在线例子](https://sunshine168.github.io/react-konva-demo/build/)
  以create-react-app作为脚手架,通过react+redux+react-konva 写一个简单的五子棋游戏,分享一下react-konva的实际使用例子
 (没有人机对战功能哟) 
  
