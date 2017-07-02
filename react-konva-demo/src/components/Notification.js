@@ -1,16 +1,5 @@
 import React, {Component} from 'react'
 import {Text} from 'react-konva'
-// var complexText = new Konva.Text({
-//     x: 20,
-//     y: 60,
-//     text:
-//     fontSize: 18,
-//     fontFamily: 'Calibri',
-//     fill: '#555',
-//     width: 300,
-//     padding: 20,
-//     align: 'center'
-//   });
 export default class Notification extends Component {
 
   render(){
